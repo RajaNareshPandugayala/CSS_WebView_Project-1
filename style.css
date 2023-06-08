@@ -1,0 +1,203 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #7B7B7B29;
+}
+
+div {
+    border: #EDEDED;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    color: #EDEDED;
+}
+
+h1 {
+    background-color: #FFFFFF;
+    width: auto;
+    height: 50px;
+    box-shadow: 0px 3px 1050px 30px #7B7B7B29;
+    padding-top: 10px;
+    padding-left: 150px;
+
+}
+
+.three {
+    margin-left: 150px;
+
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.leftarrow {
+    justify-items: flex-end;
+    margin: 20px 0px 20px 30%;
+    color: #424242;
+}
+
+.plus {
+    color: #00A5EC;
+    justify-items: flex-end;
+    margin: 20px 0px 5px 7.8%;
+
+}
+
+.plus1 {
+    margin: 20px 0px 20px 70%;
+}
+
+.item-two i {
+    display: inline-block;
+    padding-left: 50px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.next {
+    font-size: 27px;
+}
+
+.next1 {
+    font-size: 21px;
+
+}
+
+.item-three {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 352px;
+    height: 360px;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0px 0px 10px #67676729;
+    border-radius: 0.2cm;
+
+}
+
+.ph2 {
+    text-align: center;
+    padding: 20px 35%;
+    color: #00A5EC;
+    font-size: 21px;
+}
+
+.h2 {
+    padding-left: 50px;
+    font-size: 21px;
+}
+
+
+
+.item-three i {
+    display: inline-block;
+    padding-left: 50px;
+    margin-top: 35px;
+}
+
+.square1 {
+    background-color: #F7F7F7;
+    color: #EDEDED;
+    font-size: 21px;
+}
+
+.four {
+    width: 500px;
+    height: 338px;
+    align-items: center;
+    justify-content: center;
+    margin: 60px 32%;
+    background-color: #FFFFFF;
+    box-shadow: 0px 50px 100px #7B7B7B29;
+}
+
+.rmove {
+    padding-left: 25px;
+}
+
+.check {
+    color: #C2C2C2;
+    text-decoration: line-through;
+}
+
+.check1 {
+    color: #C2C2C2;
+    font-size: 21px;
+}
+
+p {
+    display: inline;
+}
+
+.backpage {
+    width: 500px;
+    height: 250px;
+    box-shadow: 2px 2px 5px #FFFFFF;
+    border-radius: 0.2cm;
+    background-color: #FFFFFF;
+    margin: 215px 10px 0px 460px;
+    box-shadow: 0px 0px 10px black;
+    position: absolute;
+    top: 0;
+}
+
+.add {
+    font-size: 21px;
+    padding: 15px;
+}
+
+.xmark {
+    margin: 15px 0px 0px 285px;
+    font-size: 21px;
+}
+
+
+.input {
+    color: #F7F7F7;
+    padding: 20px 35px 50px 10px;
+    text-align: center;
+}
+
+.input input {
+    background-color: #EDEDED;
+    border: #EDEDED 1px;
+    padding: 15px 10px;
+    width: 100%;
+}
+
+.button {
+    background-color: #00A5EC;
+    padding: 10px 10px;
+    margin: 10px 20px 10px 320px;
+    text-align: center;
+    border-radius: 0.15cm;
+}
+
+.button span {
+    color: #FFFFFF;
+}
+
+
+a {
+    padding: 5px;
+}
+
+hr {
+    margin-top: 15px;
+}
+
+.opacity {
+    height: 920px;
+    background-color: black;
+    opacity: 60%;
+
+}
