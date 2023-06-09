@@ -199,5 +199,6 @@ hr {
     height: 920px;
     background-color: black;
     opacity: 60%;
+    filter: blur(1px);
 
 }
